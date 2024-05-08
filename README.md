@@ -3,6 +3,8 @@ Projeto de DB, Prof Felipe
 
 É um projeto desenvolvido para selecionar um dataset no Kaggle, realizar a seleção de tabelas que iremos utilizar para criar uma base de banco de dados e um modelo lógico.
 ***
+***O que é MongoDB?***
+MongoDB (link externo à IBM) é um sistema de gerenciamento de banco de dados (DBMS) não relacional, baseado em software livre, que utiliza documentos flexíveis em vez de tabelas e linhas para processar e armazenar várias formas de dados. Como uma solução debanco de dados NoSQL, o MongoDB não requerer um sistema de gerenciamento de banco de dados relacional (RDBMS), portanto, ele oferece um modelo de armazenamento de dados elástico, que permite aos usuários armazenar e consultar tipos de dados variados com facilidade. Isso não apenas simplifica o gerenciamento do banco de dados para os desenvolvedores, como também cria um ambiente altamente escalável para aplicativos e serviços multiplataforma.
 
 >Link do dataset: https://www.kaggle.com/datasets/paololol/league-of-legends-ranked-matches?select=stats2.csv
 
