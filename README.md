@@ -11,22 +11,22 @@ Projeto de DB, Prof Felipe
 nosso modelo logico apos a criação de tabelas, removidos erros de tabelas que não tinham ligações.
 ![IMG-20240507-WA0110](https://github.com/CatatauProMax/SN-Nassau/assets/167378662/3707edbb-f6b1-4e8f-bbd9-88c83bf0d881)
 
-exemplo da organização de dados rebebidos pelo kaggle.
+**exemplo da organização de dados rebebidos pelo kaggle.**
 ![WhatsApp Image 2024-05-08 at 19 07 03](https://github.com/CatatauProMax/SN-Nassau/assets/167378662/5aa27392-9de5-4660-b929-dd11f018c8fd)
 
-nosso crud criado, e sendo executado o " # criar_champs ("briar", 500, 123, 321, 27, 40, 31, 345, 551) " ja foi executado, foi colocado a # para não ser executado novamente.
+**nosso crud criado, e sendo executado o " # criar_champs ("briar", 500, 123, 321, 27, 40, 31, 345, 551) " ja foi executado, foi colocado a # para não ser executado novamente.**
 ![WhatsApp Image 2024-05-08 at 19 07 03 (1)](https://github.com/CatatauProMax/SN-Nassau/assets/167378662/a92bf129-f3e1-4e00-9c41-fd8897942ff5)
 
-explicação no vscode de como fica o json exportado do mongodb.
+**explicação no vscode de como fica o json exportado do mongodb.**
 ![WhatsApp Image 2024-05-08 at 19 07 03 (2)](https://github.com/CatatauProMax/SN-Nassau/assets/167378662/7be950cc-0f7e-4dfc-8d9b-e8b32ad33bdf)
 
-criação das tabelas usando o mysql.
+**criação das tabelas usando o mysql**.
 ![WhatsApp Image 2024-05-08 at 19 07 03 (3)](https://github.com/CatatauProMax/SN-Nassau/assets/167378662/afc9b8ac-537b-4ee8-a1d0-702b384fabe5)
 
-como fica os dados importados para o mongodb.
+**como fica os dados importados para o mongodb.**
 ![WhatsApp Image 2024-05-08 at 15 59 07](https://github.com/CatatauProMax/SN-Nassau/assets/167378662/05b59217-e450-4c5f-9af0-aaafa1d2c027)
 
-a seleção do campeão e alteração em erros no codigo da tabela.
+**a seleção do campeão e alteração em erros no codigo da tabela.**
 ![WhatsApp Image 2024-05-08 at 15 59 55](https://github.com/CatatauProMax/SN-Nassau/assets/167378662/24eef1ac-5c7e-41ab-a7db-0b3b634715ee)
 
 
