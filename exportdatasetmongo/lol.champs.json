@@ -1,0 +1,2070 @@
+[{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fac4"
+  },
+  "id": 266,
+  "Champions": "Aatrox",
+  "HP": 650,
+  "HP_ADD": 114,
+  "MP": 0,
+  "AD": 60,
+  "AR": 38,
+  "MR": 32,
+  "MS": 345,
+  "Range": 175
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fac5"
+  },
+  "id": 103,
+  "Champions": "Ahri",
+  "HP": 590,
+  "HP_ADD": 96,
+  "MP": 418,
+  "AD": 53,
+  "AR": 21,
+  "MR": 30,
+  "MS": 330,
+  "Range": 550
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fac6"
+  },
+  "id": 84,
+  "Champions": "Akali",
+  "HP": 570,
+  "HP_ADD": 119,
+  "MP": 200,
+  "AD": 62,
+  "AR": 23,
+  "MR": 37,
+  "MS": 345,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fac7"
+  },
+  "id": 12,
+  "Champions": "Alistar",
+  "HP": 685,
+  "HP_ADD": 120,
+  "MP": 350,
+  "AD": 62,
+  "AR": 47,
+  "MR": 32,
+  "MS": 330,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fac8"
+  },
+  "id": 32,
+  "Champions": "Amumu",
+  "HP": 685,
+  "HP_ADD": 94,
+  "MP": 285,
+  "AD": 53,
+  "AR": 30,
+  "MR": 32,
+  "MS": 335,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fac9"
+  },
+  "id": 34,
+  "Champions": "Anivia",
+  "HP": 550,
+  "HP_ADD": 92,
+  "MP": 495,
+  "AD": 51,
+  "AR": 21,
+  "MR": 30,
+  "MS": 325,
+  "Range": 600
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4faca"
+  },
+  "id": 1,
+  "Champions": "Annie",
+  "HP": 560,
+  "HP_ADD": 102,
+  "MP": 418,
+  "AD": 50,
+  "AR": 19,
+  "MR": 30,
+  "MS": 335,
+  "Range": 625
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4facb"
+  },
+  "id": 22,
+  "Champions": "Ashe",
+  "HP": 640,
+  "HP_ADD": 101,
+  "MP": 280,
+  "AD": 59,
+  "AR": 26,
+  "MR": 30,
+  "MS": 325,
+  "Range": 600
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4facc"
+  },
+  "id": 136,
+  "Champions": "Aurelion Sol",
+  "HP": 620,
+  "HP_ADD": 90,
+  "MP": 530,
+  "AD": 55,
+  "AR": 22,
+  "MR": 30,
+  "MS": 335,
+  "Range": 550
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4facd"
+  },
+  "id": 268,
+  "Champions": "Azir",
+  "HP": 550,
+  "HP_ADD": 119,
+  "MP": 320,
+  "AD": 52,
+  "AR": 22,
+  "MR": 30,
+  "MS": 335,
+  "Range": 525
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4face"
+  },
+  "id": 432,
+  "Champions": "Bard",
+  "HP": 630,
+  "HP_ADD": 103,
+  "MP": 350,
+  "AD": 52,
+  "AR": 34,
+  "MR": 30,
+  "MS": 330,
+  "Range": 500
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4facf"
+  },
+  "id": 53,
+  "Champions": "Blitzcrank",
+  "HP": 650,
+  "HP_ADD": 109,
+  "MP": 267,
+  "AD": 62,
+  "AR": 40,
+  "MR": 32,
+  "MS": 325,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fad0"
+  },
+  "id": 63,
+  "Champions": "Brand",
+  "HP": 570,
+  "HP_ADD": 105,
+  "MP": 469,
+  "AD": 57,
+  "AR": 27,
+  "MR": 30,
+  "MS": 340,
+  "Range": 550
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fad1"
+  },
+  "id": 201,
+  "Champions": "Braum",
+  "HP": 610,
+  "HP_ADD": 112,
+  "MP": 311,
+  "AD": 55,
+  "AR": 47,
+  "MR": 32,
+  "MS": 335,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fad2"
+  },
+  "id": 51,
+  "Champions": "Caitlyn",
+  "HP": 580,
+  "HP_ADD": 107,
+  "MP": 315,
+  "AD": 60,
+  "AR": 27,
+  "MR": 30,
+  "MS": 325,
+  "Range": 650
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fad3"
+  },
+  "id": 164,
+  "Champions": "Camille",
+  "HP": 646,
+  "HP_ADD": 99,
+  "MP": 339,
+  "AD": 68,
+  "AR": 35,
+  "MR": 32,
+  "MS": 340,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fad4"
+  },
+  "id": 69,
+  "Champions": "Cassiopeia",
+  "HP": 630,
+  "HP_ADD": 104,
+  "MP": 350,
+  "AD": 53,
+  "AR": 18,
+  "MR": 32,
+  "MS": 328,
+  "Range": 550
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fad5"
+  },
+  "id": 31,
+  "Champions": "ChoGath",
+  "HP": 644,
+  "HP_ADD": 94,
+  "MP": 270,
+  "AD": 69,
+  "AR": 38,
+  "MR": 32,
+  "MS": 345,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fad6"
+  },
+  "id": 42,
+  "Champions": "Corki",
+  "HP": 588,
+  "HP_ADD": 105,
+  "MP": 350,
+  "AD": 55,
+  "AR": 28,
+  "MR": 30,
+  "MS": 325,
+  "Range": 550
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fad7"
+  },
+  "id": 122,
+  "Champions": "Darius",
+  "HP": 652,
+  "HP_ADD": 114,
+  "MP": 263,
+  "AD": 64,
+  "AR": 39,
+  "MR": 32,
+  "MS": 340,
+  "Range": 175
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fad8"
+  },
+  "id": 131,
+  "Champions": "Diana",
+  "HP": 640,
+  "HP_ADD": 109,
+  "MP": 375,
+  "AD": 57,
+  "AR": 31,
+  "MR": 32,
+  "MS": 345,
+  "Range": 150
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fad9"
+  },
+  "id": 36,
+  "Champions": "DrMundo",
+  "HP": 613,
+  "HP_ADD": 103,
+  "MP": 0,
+  "AD": 61,
+  "AR": 32,
+  "MR": 29,
+  "MS": 345,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fada"
+  },
+  "id": 119,
+  "Champions": "Draven",
+  "HP": 675,
+  "HP_ADD": 104,
+  "MP": 361,
+  "AD": 62,
+  "AR": 29,
+  "MR": 30,
+  "MS": 330,
+  "Range": 550
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fadb"
+  },
+  "id": 245,
+  "Champions": "Ekko",
+  "HP": 655,
+  "HP_ADD": 99,
+  "MP": 280,
+  "AD": 58,
+  "AR": 32,
+  "MR": 32,
+  "MS": 340,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fadc"
+  },
+  "id": 60,
+  "Champions": "Elise",
+  "HP": 650,
+  "HP_ADD": 109,
+  "MP": 324,
+  "AD": 55,
+  "AR": 30,
+  "MR": 30,
+  "MS": 330,
+  "Range": 550
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fadd"
+  },
+  "id": 28,
+  "Champions": "Evelynn",
+  "HP": 642,
+  "HP_ADD": 98,
+  "MP": 315,
+  "AD": 61,
+  "AR": 37,
+  "MR": 32,
+  "MS": 335,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fade"
+  },
+  "id": 81,
+  "Champions": "Ezreal",
+  "HP": 600,
+  "HP_ADD": 102,
+  "MP": 375,
+  "AD": 62,
+  "AR": 24,
+  "MR": 30,
+  "MS": 325,
+  "Range": 550
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fadf"
+  },
+  "id": 9,
+  "Champions": "Fiddlesticks",
+  "HP": 650,
+  "HP_ADD": 106,
+  "MP": 500,
+  "AD": 55,
+  "AR": 34,
+  "MR": 30,
+  "MS": 335,
+  "Range": 480
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fae0"
+  },
+  "id": 114,
+  "Champions": "Fiora",
+  "HP": 620,
+  "HP_ADD": 99,
+  "MP": 300,
+  "AD": 68,
+  "AR": 33,
+  "MR": 32,
+  "MS": 345,
+  "Range": 150
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fae1"
+  },
+  "id": 105,
+  "Champions": "Fizz",
+  "HP": 640,
+  "HP_ADD": 106,
+  "MP": 317,
+  "AD": 58,
+  "AR": 22,
+  "MR": 32,
+  "MS": 335,
+  "Range": 175
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fae2"
+  },
+  "id": 3,
+  "Champions": "Galio",
+  "HP": 632,
+  "HP_ADD": 126,
+  "MP": 500,
+  "AD": 59,
+  "AR": 24,
+  "MR": 32,
+  "MS": 335,
+  "Range": 150
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fae3"
+  },
+  "id": 41,
+  "Champions": "Gangplank",
+  "HP": 600,
+  "HP_ADD": 114,
+  "MP": 280,
+  "AD": 64,
+  "AR": 31,
+  "MR": 32,
+  "MS": 345,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fae4"
+  },
+  "id": 86,
+  "Champions": "Garen",
+  "HP": 690,
+  "HP_ADD": 98,
+  "MP": 0,
+  "AD": 69,
+  "AR": 38,
+  "MR": 32,
+  "MS": 340,
+  "Range": 175
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fae5"
+  },
+  "id": 150,
+  "Champions": "Gnar",
+  "HP": 540,
+  "HP_ADD": 79,
+  "MP": 100,
+  "AD": 57,
+  "AR": 32,
+  "MR": 30,
+  "MS": 335,
+  "Range": 400
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fae6"
+  },
+  "id": 79,
+  "Champions": "Gragas",
+  "HP": 670,
+  "HP_ADD": 109,
+  "MP": 400,
+  "AD": 64,
+  "AR": 38,
+  "MR": 32,
+  "MS": 330,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fae7"
+  },
+  "id": 104,
+  "Champions": "Graves",
+  "HP": 625,
+  "HP_ADD": 106,
+  "MP": 325,
+  "AD": 68,
+  "AR": 33,
+  "MR": 32,
+  "MS": 340,
+  "Range": 425
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fae8"
+  },
+  "id": 120,
+  "Champions": "Hecarim",
+  "HP": 625,
+  "HP_ADD": 99,
+  "MP": 280,
+  "AD": 66,
+  "AR": 32,
+  "MR": 32,
+  "MS": 345,
+  "Range": 175
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fae9"
+  },
+  "id": 74,
+  "Champions": "Heimerdinger",
+  "HP": 558,
+  "HP_ADD": 101,
+  "MP": 385,
+  "AD": 56,
+  "AR": 19,
+  "MR": 30,
+  "MS": 340,
+  "Range": 550
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4faea"
+  },
+  "id": 420,
+  "Champions": "Illaoi",
+  "HP": 656,
+  "HP_ADD": 109,
+  "MP": 300,
+  "AD": 68,
+  "AR": 35,
+  "MR": 32,
+  "MS": 350,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4faeb"
+  },
+  "id": 39,
+  "Champions": "Irelia",
+  "HP": 590,
+  "HP_ADD": 124,
+  "MP": 350,
+  "AD": 65,
+  "AR": 36,
+  "MR": 30,
+  "MS": 335,
+  "Range": 200
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4faec"
+  },
+  "id": 427,
+  "Champions": "Ivern",
+  "HP": 655,
+  "HP_ADD": 99,
+  "MP": 450,
+  "AD": 50,
+  "AR": 27,
+  "MR": 30,
+  "MS": 330,
+  "Range": 475
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4faed"
+  },
+  "id": 40,
+  "Champions": "Janna",
+  "HP": 570,
+  "HP_ADD": 84,
+  "MP": 350,
+  "AD": 52,
+  "AR": 28,
+  "MR": 30,
+  "MS": 325,
+  "Range": 500
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4faee"
+  },
+  "id": 59,
+  "Champions": "Jarvan IV",
+  "HP": 640,
+  "HP_ADD": 104,
+  "MP": 300,
+  "AD": 64,
+  "AR": 36,
+  "MR": 32,
+  "MS": 340,
+  "Range": 175
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4faef"
+  },
+  "id": 24,
+  "Champions": "Jax",
+  "HP": 665,
+  "HP_ADD": 100,
+  "MP": 339,
+  "AD": 68,
+  "AR": 36,
+  "MR": 32,
+  "MS": 350,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4faf0"
+  },
+  "id": 126,
+  "Champions": "Jayce",
+  "HP": 590,
+  "HP_ADD": 109,
+  "MP": 375,
+  "AD": 57,
+  "AR": 22,
+  "MR": 30,
+  "MS": 335,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4faf1"
+  },
+  "id": 202,
+  "Champions": "Jhin",
+  "HP": 655,
+  "HP_ADD": 107,
+  "MP": 300,
+  "AD": 59,
+  "AR": 24,
+  "MR": 30,
+  "MS": 330,
+  "Range": 550
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4faf2"
+  },
+  "id": 222,
+  "Champions": "Jinx",
+  "HP": 630,
+  "HP_ADD": 105,
+  "MP": 260,
+  "AD": 59,
+  "AR": 26,
+  "MR": 30,
+  "MS": 325,
+  "Range": 525
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4faf3"
+  },
+  "id": 429,
+  "Champions": "Kalista",
+  "HP": 600,
+  "HP_ADD": 114,
+  "MP": 300,
+  "AD": 61,
+  "AR": 24,
+  "MR": 30,
+  "MS": 330,
+  "Range": 525
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4faf4"
+  },
+  "id": 43,
+  "Champions": "Karma",
+  "HP": 604,
+  "HP_ADD": 109,
+  "MP": 374,
+  "AD": 51,
+  "AR": 28,
+  "MR": 30,
+  "MS": 335,
+  "Range": 525
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4faf5"
+  },
+  "id": 30,
+  "Champions": "Karthus",
+  "HP": 620,
+  "HP_ADD": 110,
+  "MP": 467,
+  "AD": 46,
+  "AR": 21,
+  "MR": 30,
+  "MS": 335,
+  "Range": 450
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4faf6"
+  },
+  "id": 38,
+  "Champions": "Kassadin",
+  "HP": 646,
+  "HP_ADD": 119,
+  "MP": 400,
+  "AD": 59,
+  "AR": 19,
+  "MR": 30,
+  "MS": 335,
+  "Range": 150
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4faf7"
+  },
+  "id": 55,
+  "Champions": "Katarina",
+  "HP": 672,
+  "HP_ADD": 108,
+  "MP": 0,
+  "AD": 58,
+  "AR": 28,
+  "MR": 32,
+  "MS": 335,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4faf8"
+  },
+  "id": 10,
+  "Champions": "Kayle",
+  "HP": 670,
+  "HP_ADD": 92,
+  "MP": 330,
+  "AD": 50,
+  "AR": 26,
+  "MR": 22,
+  "MS": 335,
+  "Range": 175
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4faf9"
+  },
+  "id": 141,
+  "Champions": "Kayn",
+  "HP": 655,
+  "HP_ADD": 109,
+  "MP": 410,
+  "AD": 68,
+  "AR": 38,
+  "MR": 32,
+  "MS": 340,
+  "Range": 175
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fafa"
+  },
+  "id": 85,
+  "Champions": "Kennen",
+  "HP": 611,
+  "HP_ADD": 98,
+  "MP": 200,
+  "AD": 48,
+  "AR": 29,
+  "MR": 30,
+  "MS": 335,
+  "Range": 550
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fafb"
+  },
+  "id": 121,
+  "Champions": "KhaZix",
+  "HP": 643,
+  "HP_ADD": 99,
+  "MP": 327,
+  "AD": 60,
+  "AR": 36,
+  "MR": 32,
+  "MS": 350,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fafc"
+  },
+  "id": 203,
+  "Champions": "Kindred",
+  "HP": 610,
+  "HP_ADD": 104,
+  "MP": 300,
+  "AD": 65,
+  "AR": 29,
+  "MR": 30,
+  "MS": 325,
+  "Range": 500
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fafd"
+  },
+  "id": 240,
+  "Champions": "Kled",
+  "HP": 410,
+  "HP_ADD": 84,
+  "MP": 100,
+  "AD": 65,
+  "AR": 35,
+  "MR": 28,
+  "MS": 285,
+  "Range": 250
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fafe"
+  },
+  "id": 96,
+  "Champions": "KogMaw",
+  "HP": 635,
+  "HP_ADD": 99,
+  "MP": 325,
+  "AD": 61,
+  "AR": 24,
+  "MR": 30,
+  "MS": 330,
+  "Range": 500
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4faff"
+  },
+  "id": 7,
+  "Champions": "LeBlanc",
+  "HP": 598,
+  "HP_ADD": 111,
+  "MP": 400,
+  "AD": 55,
+  "AR": 22,
+  "MR": 30,
+  "MS": 340,
+  "Range": 525
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb00"
+  },
+  "id": 64,
+  "Champions": "Lee Sin",
+  "HP": 645,
+  "HP_ADD": 105,
+  "MP": 200,
+  "AD": 66,
+  "AR": 36,
+  "MR": 32,
+  "MS": 345,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb01"
+  },
+  "id": 89,
+  "Champions": "Leona",
+  "HP": 646,
+  "HP_ADD": 101,
+  "MP": 302,
+  "AD": 60,
+  "AR": 47,
+  "MR": 32,
+  "MS": 335,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb02"
+  },
+  "id": 127,
+  "Champions": "Lissandra",
+  "HP": 620,
+  "HP_ADD": 110,
+  "MP": 475,
+  "AD": 55,
+  "AR": 22,
+  "MR": 30,
+  "MS": 325,
+  "Range": 550
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb03"
+  },
+  "id": 236,
+  "Champions": "Lucian",
+  "HP": 641,
+  "HP_ADD": 100,
+  "MP": 320,
+  "AD": 60,
+  "AR": 28,
+  "MR": 30,
+  "MS": 335,
+  "Range": 500
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb04"
+  },
+  "id": 117,
+  "Champions": "Lulu",
+  "HP": 595,
+  "HP_ADD": 92,
+  "MP": 350,
+  "AD": 47,
+  "AR": 26,
+  "MR": 30,
+  "MS": 330,
+  "Range": 550
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb05"
+  },
+  "id": 99,
+  "Champions": "Lux",
+  "HP": 560,
+  "HP_ADD": 99,
+  "MP": 480,
+  "AD": 54,
+  "AR": 19,
+  "MR": 30,
+  "MS": 330,
+  "Range": 550
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb06"
+  },
+  "id": 54,
+  "Champions": "Malphite",
+  "HP": 644,
+  "HP_ADD": 104,
+  "MP": 280,
+  "AD": 62,
+  "AR": 37,
+  "MR": 28,
+  "MS": 335,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb07"
+  },
+  "id": 90,
+  "Champions": "Malzahar",
+  "HP": 580,
+  "HP_ADD": 101,
+  "MP": 375,
+  "AD": 55,
+  "AR": 18,
+  "MR": 30,
+  "MS": 335,
+  "Range": 500
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb08"
+  },
+  "id": 57,
+  "Champions": "Maokai",
+  "HP": 635,
+  "HP_ADD": 109,
+  "MP": 375,
+  "AD": 64,
+  "AR": 39,
+  "MR": 32,
+  "MS": 335,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb09"
+  },
+  "id": 11,
+  "Champions": "Master Yi",
+  "HP": 669,
+  "HP_ADD": 100,
+  "MP": 251,
+  "AD": 65,
+  "AR": 33,
+  "MR": 32,
+  "MS": 355,
+  "Range": 175
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb0a"
+  },
+  "id": 21,
+  "Champions": "Miss Fortune",
+  "HP": 640,
+  "HP_ADD": 103,
+  "MP": 300,
+  "AD": 52,
+  "AR": 28,
+  "MR": 30,
+  "MS": 325,
+  "Range": 550
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb0b"
+  },
+  "id": 82,
+  "Champions": "Mordekaiser",
+  "HP": 645,
+  "HP_ADD": 104,
+  "MP": 0,
+  "AD": 61,
+  "AR": 37,
+  "MR": 32,
+  "MS": 335,
+  "Range": 175
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb0c"
+  },
+  "id": 25,
+  "Champions": "Morgana",
+  "HP": 630,
+  "HP_ADD": 104,
+  "MP": 340,
+  "AD": 56,
+  "AR": 25,
+  "MR": 30,
+  "MS": 335,
+  "Range": 450
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb0d"
+  },
+  "id": 267,
+  "Champions": "Nami",
+  "HP": 560,
+  "HP_ADD": 88,
+  "MP": 365,
+  "AD": 51,
+  "AR": 29,
+  "MR": 30,
+  "MS": 335,
+  "Range": 550
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb0e"
+  },
+  "id": 75,
+  "Champions": "Nasus",
+  "HP": 631,
+  "HP_ADD": 104,
+  "MP": 326,
+  "AD": 67,
+  "AR": 34,
+  "MR": 32,
+  "MS": 350,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb0f"
+  },
+  "id": 111,
+  "Champions": "Nautilus",
+  "HP": 646,
+  "HP_ADD": 100,
+  "MP": 400,
+  "AD": 61,
+  "AR": 39,
+  "MR": 32,
+  "MS": 325,
+  "Range": 175
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb10"
+  },
+  "id": 76,
+  "Champions": "Nidalee",
+  "HP": 610,
+  "HP_ADD": 109,
+  "MP": 295,
+  "AD": 58,
+  "AR": 32,
+  "MR": 30,
+  "MS": 340,
+  "Range": 525
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb11"
+  },
+  "id": 56,
+  "Champions": "Nocturne",
+  "HP": 655,
+  "HP_ADD": 109,
+  "MP": 275,
+  "AD": 62,
+  "AR": 38,
+  "MR": 32,
+  "MS": 345,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb12"
+  },
+  "id": 20,
+  "Champions": "Nunu",
+  "HP": 0,
+  "HP_ADD": 90,
+  "MP": 280,
+  "AD": 61,
+  "AR": 29,
+  "MR": 32,
+  "MS": 345,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb13"
+  },
+  "id": 2,
+  "Champions": "Olaf",
+  "HP": 645,
+  "HP_ADD": 119,
+  "MP": 316,
+  "AD": 68,
+  "AR": 35,
+  "MR": 32,
+  "MS": 350,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb14"
+  },
+  "id": 61,
+  "Champions": "Orianna",
+  "HP": 600,
+  "HP_ADD": 110,
+  "MP": 418,
+  "AD": 40,
+  "AR": 20,
+  "MR": 26,
+  "MS": 325,
+  "Range": 525
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb15"
+  },
+  "id": 516,
+  "Champions": "Ornn",
+  "HP": 660,
+  "HP_ADD": 109,
+  "MP": 341,
+  "AD": 69,
+  "AR": 33,
+  "MR": 32,
+  "MS": 335,
+  "Range": 175
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb16"
+  },
+  "id": 80,
+  "Champions": "Pantheon",
+  "HP": 650,
+  "HP_ADD": 109,
+  "MP": 317,
+  "AD": 64,
+  "AR": 40,
+  "MR": 28,
+  "MS": 345,
+  "Range": 175
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb17"
+  },
+  "id": 78,
+  "Champions": "Poppy",
+  "HP": 610,
+  "HP_ADD": 104,
+  "MP": 280,
+  "AD": 64,
+  "AR": 38,
+  "MR": 32,
+  "MS": 345,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb18"
+  },
+  "id": 133,
+  "Champions": "Quinn",
+  "HP": 565,
+  "HP_ADD": 107,
+  "MP": 269,
+  "AD": 59,
+  "AR": 28,
+  "MR": 30,
+  "MS": 330,
+  "Range": 525
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb19"
+  },
+  "id": 497,
+  "Champions": "Rakan",
+  "HP": 610,
+  "HP_ADD": 99,
+  "MP": 315,
+  "AD": 62,
+  "AR": 30,
+  "MR": 32,
+  "MS": 335,
+  "Range": 300
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb1a"
+  },
+  "id": 33,
+  "Champions": "Rammus",
+  "HP": 675,
+  "HP_ADD": 94,
+  "MP": 310,
+  "AD": 55,
+  "AR": 40,
+  "MR": 32,
+  "MS": 335,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb1b"
+  },
+  "id": 421,
+  "Champions": "RekSai",
+  "HP": 600,
+  "HP_ADD": 99,
+  "MP": 100,
+  "AD": 58,
+  "AR": 36,
+  "MR": 32,
+  "MS": 335,
+  "Range": 175
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb1c"
+  },
+  "id": 58,
+  "Champions": "Renekton",
+  "HP": 660,
+  "HP_ADD": 111,
+  "MP": 100,
+  "AD": 69,
+  "AR": 35,
+  "MR": 28,
+  "MS": 345,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb1d"
+  },
+  "id": 107,
+  "Champions": "Rengar",
+  "HP": 620,
+  "HP_ADD": 104,
+  "MP": 4,
+  "AD": 68,
+  "AR": 34,
+  "MR": 32,
+  "MS": 345,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb1e"
+  },
+  "id": 92,
+  "Champions": "Riven",
+  "HP": 630,
+  "HP_ADD": 100,
+  "MP": 0,
+  "AD": 64,
+  "AR": 33,
+  "MR": 32,
+  "MS": 340,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb1f"
+  },
+  "id": 68,
+  "Champions": "Rumble",
+  "HP": 625,
+  "HP_ADD": 105,
+  "MP": 150,
+  "AD": 61,
+  "AR": 36,
+  "MR": 28,
+  "MS": 345,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb20"
+  },
+  "id": 13,
+  "Champions": "Ryze",
+  "HP": 645,
+  "HP_ADD": 124,
+  "MP": 300,
+  "AD": 58,
+  "AR": 22,
+  "MR": 32,
+  "MS": 340,
+  "Range": 550
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb21"
+  },
+  "id": 113,
+  "Champions": "Sejuani",
+  "HP": 630,
+  "HP_ADD": 114,
+  "MP": 400,
+  "AD": 66,
+  "AR": 34,
+  "MR": 32,
+  "MS": 340,
+  "Range": 150
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb22"
+  },
+  "id": 35,
+  "Champions": "Shaco",
+  "HP": 630,
+  "HP_ADD": 99,
+  "MP": 297,
+  "AD": 63,
+  "AR": 30,
+  "MR": 32,
+  "MS": 345,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb23"
+  },
+  "id": 98,
+  "Champions": "Shen",
+  "HP": 610,
+  "HP_ADD": 99,
+  "MP": 400,
+  "AD": 60,
+  "AR": 34,
+  "MR": 32,
+  "MS": 340,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb24"
+  },
+  "id": 102,
+  "Champions": "Shyvana",
+  "HP": 665,
+  "HP_ADD": 104,
+  "MP": 100,
+  "AD": 66,
+  "AR": 38,
+  "MR": 32,
+  "MS": 350,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb25"
+  },
+  "id": 27,
+  "Champions": "Singed",
+  "HP": 650,
+  "HP_ADD": 99,
+  "MP": 330,
+  "AD": 63,
+  "AR": 34,
+  "MR": 32,
+  "MS": 345,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb26"
+  },
+  "id": 14,
+  "Champions": "Sion",
+  "HP": 655,
+  "HP_ADD": 87,
+  "MP": 400,
+  "AD": 68,
+  "AR": 32,
+  "MR": 32,
+  "MS": 345,
+  "Range": 175
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb27"
+  },
+  "id": 15,
+  "Champions": "Sivir",
+  "HP": 600,
+  "HP_ADD": 104,
+  "MP": 340,
+  "AD": 58,
+  "AR": 26,
+  "MR": 30,
+  "MS": 335,
+  "Range": 500
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb28"
+  },
+  "id": 72,
+  "Champions": "Skarner",
+  "HP": 650,
+  "HP_ADD": 99,
+  "MP": 320,
+  "AD": 65,
+  "AR": 38,
+  "MR": 32,
+  "MS": 335,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb29"
+  },
+  "id": 37,
+  "Champions": "Sona",
+  "HP": 550,
+  "HP_ADD": 91,
+  "MP": 340,
+  "AD": 49,
+  "AR": 26,
+  "MR": 30,
+  "MS": 325,
+  "Range": 550
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb2a"
+  },
+  "id": 16,
+  "Champions": "Soraka",
+  "HP": 605,
+  "HP_ADD": 88,
+  "MP": 425,
+  "AD": 50,
+  "AR": 32,
+  "MR": 30,
+  "MS": 325,
+  "Range": 550
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb2b"
+  },
+  "id": 50,
+  "Champions": "Swain",
+  "HP": 595,
+  "HP_ADD": 99,
+  "MP": 468,
+  "AD": 58,
+  "AR": 26,
+  "MR": 30,
+  "MS": 330,
+  "Range": 525
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb2c"
+  },
+  "id": 134,
+  "Champions": "Syndra",
+  "HP": 563,
+  "HP_ADD": 104,
+  "MP": 480,
+  "AD": 54,
+  "AR": 25,
+  "MR": 30,
+  "MS": 330,
+  "Range": 550
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb2d"
+  },
+  "id": 223,
+  "Champions": "Tahm Kench",
+  "HP": 640,
+  "HP_ADD": 103,
+  "MP": 325,
+  "AD": 56,
+  "AR": 42,
+  "MR": 32,
+  "MS": 335,
+  "Range": 175
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb2e"
+  },
+  "id": 163,
+  "Champions": "Taliyah",
+  "HP": 550,
+  "HP_ADD": 104,
+  "MP": 470,
+  "AD": 58,
+  "AR": 18,
+  "MR": 30,
+  "MS": 330,
+  "Range": 525
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb2f"
+  },
+  "id": 91,
+  "Champions": "Talon",
+  "HP": 658,
+  "HP_ADD": 109,
+  "MP": 400,
+  "AD": 68,
+  "AR": 30,
+  "MR": 39,
+  "MS": 335,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb30"
+  },
+  "id": 44,
+  "Champions": "Taric",
+  "HP": 645,
+  "HP_ADD": 99,
+  "MP": 300,
+  "AD": 55,
+  "AR": 40,
+  "MR": 28,
+  "MS": 340,
+  "Range": 150
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb31"
+  },
+  "id": 17,
+  "Champions": "Teemo",
+  "HP": 598,
+  "HP_ADD": 104,
+  "MP": 334,
+  "AD": 54,
+  "AR": 24,
+  "MR": 30,
+  "MS": 330,
+  "Range": 500
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb32"
+  },
+  "id": 412,
+  "Champions": "Thresh",
+  "HP": 600,
+  "HP_ADD": 120,
+  "MP": 274,
+  "AD": 56,
+  "AR": 28,
+  "MR": 30,
+  "MS": 330,
+  "Range": 450
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb33"
+  },
+  "id": 18,
+  "Champions": "Tristana",
+  "HP": 640,
+  "HP_ADD": 102,
+  "MP": 250,
+  "AD": 59,
+  "AR": 30,
+  "MR": 28,
+  "MS": 325,
+  "Range": 525
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb34"
+  },
+  "id": 48,
+  "Champions": "Trundle",
+  "HP": 686,
+  "HP_ADD": 110,
+  "MP": 340,
+  "AD": 68,
+  "AR": 37,
+  "MR": 32,
+  "MS": 350,
+  "Range": 175
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb35"
+  },
+  "id": 23,
+  "Champions": "Tryndamere",
+  "HP": 696,
+  "HP_ADD": 108,
+  "MP": 100,
+  "AD": 66,
+  "AR": 33,
+  "MR": 32,
+  "MS": 345,
+  "Range": 175
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb36"
+  },
+  "id": 4,
+  "Champions": "Twisted Fate",
+  "HP": 604,
+  "HP_ADD": 108,
+  "MP": 333,
+  "AD": 52,
+  "AR": 21,
+  "MR": 30,
+  "MS": 330,
+  "Range": 525
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb37"
+  },
+  "id": 29,
+  "Champions": "Twitch",
+  "HP": 682,
+  "HP_ADD": 100,
+  "MP": 300,
+  "AD": 59,
+  "AR": 27,
+  "MR": 30,
+  "MS": 330,
+  "Range": 550
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb38"
+  },
+  "id": 77,
+  "Champions": "Udyr",
+  "HP": 664,
+  "HP_ADD": 92,
+  "MP": 271,
+  "AD": 62,
+  "AR": 31,
+  "MR": 32,
+  "MS": 350,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb39"
+  },
+  "id": 6,
+  "Champions": "Urgot",
+  "HP": 655,
+  "HP_ADD": 102,
+  "MP": 340,
+  "AD": 63,
+  "AR": 36,
+  "MR": 32,
+  "MS": 330,
+  "Range": 350
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb3a"
+  },
+  "id": 110,
+  "Champions": "Varus",
+  "HP": 600,
+  "HP_ADD": 105,
+  "MP": 360,
+  "AD": 62,
+  "AR": 27,
+  "MR": 30,
+  "MS": 330,
+  "Range": 575
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb3b"
+  },
+  "id": 67,
+  "Champions": "Vayne",
+  "HP": 550,
+  "HP_ADD": 103,
+  "MP": 232,
+  "AD": 60,
+  "AR": 23,
+  "MR": 30,
+  "MS": 330,
+  "Range": 550
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb3c"
+  },
+  "id": 45,
+  "Champions": "Veigar",
+  "HP": 550,
+  "HP_ADD": 108,
+  "MP": 490,
+  "AD": 52,
+  "AR": 18,
+  "MR": 32,
+  "MS": 340,
+  "Range": 550
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb3d"
+  },
+  "id": 161,
+  "Champions": "VelKoz",
+  "HP": 590,
+  "HP_ADD": 102,
+  "MP": 469,
+  "AD": 55,
+  "AR": 22,
+  "MR": 30,
+  "MS": 340,
+  "Range": 525
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb3e"
+  },
+  "id": 254,
+  "Champions": "Vi",
+  "HP": 655,
+  "HP_ADD": 99,
+  "MP": 295,
+  "AD": 63,
+  "AR": 30,
+  "MR": 32,
+  "MS": 340,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb3f"
+  },
+  "id": 112,
+  "Champions": "Viktor",
+  "HP": 600,
+  "HP_ADD": 104,
+  "MP": 405,
+  "AD": 53,
+  "AR": 23,
+  "MR": 30,
+  "MS": 335,
+  "Range": 525
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb40"
+  },
+  "id": 8,
+  "Champions": "Vladimir",
+  "HP": 607,
+  "HP_ADD": 110,
+  "MP": 2,
+  "AD": 55,
+  "AR": 27,
+  "MR": 30,
+  "MS": 330,
+  "Range": 450
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb41"
+  },
+  "id": 106,
+  "Champions": "Volibear",
+  "HP": 650,
+  "HP_ADD": 104,
+  "MP": 350,
+  "AD": 60,
+  "AR": 31,
+  "MR": 32,
+  "MS": 340,
+  "Range": 150
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb42"
+  },
+  "id": 19,
+  "Champions": "Warwick",
+  "HP": 620,
+  "HP_ADD": 99,
+  "MP": 280,
+  "AD": 65,
+  "AR": 33,
+  "MR": 32,
+  "MS": 335,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb43"
+  },
+  "id": 62,
+  "Champions": "Wukong",
+  "HP": 610,
+  "HP_ADD": 99,
+  "MP": 300,
+  "AD": 66,
+  "AR": 31,
+  "MR": 28,
+  "MS": 340,
+  "Range": 175
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb44"
+  },
+  "id": 498,
+  "Champions": "Xayah",
+  "HP": 630,
+  "HP_ADD": 107,
+  "MP": 340,
+  "AD": 60,
+  "AR": 25,
+  "MR": 30,
+  "MS": 330,
+  "Range": 525
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb45"
+  },
+  "id": 101,
+  "Champions": "Xerath",
+  "HP": 596,
+  "HP_ADD": 106,
+  "MP": 400,
+  "AD": 55,
+  "AR": 22,
+  "MR": 30,
+  "MS": 340,
+  "Range": 525
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb46"
+  },
+  "id": 5,
+  "Champions": "Xin Zhao",
+  "HP": 640,
+  "HP_ADD": 106,
+  "MP": 274,
+  "AD": 63,
+  "AR": 35,
+  "MR": 32,
+  "MS": 345,
+  "Range": 175
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb47"
+  },
+  "id": 157,
+  "Champions": "Yasuo",
+  "HP": 590,
+  "HP_ADD": 110,
+  "MP": 100,
+  "AD": 60,
+  "AR": 30,
+  "MR": 32,
+  "MS": 345,
+  "Range": 175
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb48"
+  },
+  "id": 83,
+  "Champions": "Yorick",
+  "HP": 650,
+  "HP_ADD": 114,
+  "MP": 300,
+  "AD": 62,
+  "AR": 39,
+  "MR": 32,
+  "MS": 340,
+  "Range": 175
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb49"
+  },
+  "id": 154,
+  "Champions": "Zac",
+  "HP": 685,
+  "HP_ADD": 109,
+  "MP": 0,
+  "AD": 60,
+  "AR": 33,
+  "MR": 32,
+  "MS": 340,
+  "Range": 175
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb4a"
+  },
+  "id": 238,
+  "Champions": "Zed",
+  "HP": 654,
+  "HP_ADD": 99,
+  "MP": 200,
+  "AD": 63,
+  "AR": 32,
+  "MR": 29,
+  "MS": 345,
+  "Range": 125
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb4b"
+  },
+  "id": 115,
+  "Champions": "Ziggs",
+  "HP": 606,
+  "HP_ADD": 106,
+  "MP": 480,
+  "AD": 54,
+  "AR": 22,
+  "MR": 30,
+  "MS": 325,
+  "Range": 550
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb4c"
+  },
+  "id": 26,
+  "Champions": "Zilean",
+  "HP": 574,
+  "HP_ADD": 96,
+  "MP": 452,
+  "AD": 52,
+  "AR": 24,
+  "MR": 30,
+  "MS": 335,
+  "Range": 550
+},
+{
+  "_id": {
+    "$oid": "663ae301b437044d36b4fb4d"
+  },
+  "id": 143,
+  "Champions": "Zyra",
+  "HP": 574,
+  "HP_ADD": 93,
+  "MP": 418,
+  "AD": 53,
+  "AR": 29,
+  "MR": 30,
+  "MS": 340,
+  "Range": 575
+}]

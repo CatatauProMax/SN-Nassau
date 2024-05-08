@@ -1,0 +1,6 @@
+mysql/insert[[:space:]]teamban.sql filter=lfs diff=lfs merge=lfs -text
+mysql/insert[[:space:]]teamstats.sql filter=lfs diff=lfs merge=lfs -text
+mysql/insert[[:space:]]participants.sql filter=lfs diff=lfs merge=lfs -text
+exportdatasetmongo/lol.teamban.json filter=lfs diff=lfs merge=lfs -text
+exportdatasetmongo/lol.participants.json filter=lfs diff=lfs merge=lfs -text
+exportdatasetmongo/lol.teamstats.json filter=lfs diff=lfs merge=lfs -text
