@@ -6,19 +6,6 @@ Projeto de DB, Prof Felipe
 
 >Link do dataset: https://www.kaggle.com/datasets/paololol/league-of-legends-ranked-matches?select=stats2.csv
 
-***Tabelas selecionadas:***
-
-* Match;
-
-* Participants;
-
-* Champs;
-
-* Teamstats;
-
-* Teamban;  
-
-
 
 ***Modelo lógico:***
 
