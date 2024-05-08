@@ -28,6 +28,9 @@ Projeto de DB, Prof Felipe
 ![WhatsApp Image 2024-05-08 at 19 07 03 (2)](https://github.com/CatatauProMax/SN-Nassau/assets/167378662/7be950cc-0f7e-4dfc-8d9b-e8b32ad33bdf)
 ![WhatsApp Image 2024-05-08 at 19 07 03 (3)](https://github.com/CatatauProMax/SN-Nassau/assets/167378662/afc9b8ac-537b-4ee8-a1d0-702b384fabe5)
 ![WhatsApp Image 2024-05-08 at 19 07 03 (4)](https://github.com/CatatauProMax/SN-Nassau/assets/167378662/21236b80-cb97-400c-a33e-4a2dbb72f1c4)
+![WhatsApp Image 2024-05-08 at 15 59 07](https://github.com/CatatauProMax/SN-Nassau/assets/167378662/05b59217-e450-4c5f-9af0-aaafa1d2c027)
+![WhatsApp Image 2024-05-08 at 15 59 55](https://github.com/CatatauProMax/SN-Nassau/assets/167378662/24eef1ac-5c7e-41ab-a7db-0b3b634715ee)
+
 
 
 
