@@ -25,6 +25,7 @@ Projeto de DB, Prof Felipe
 
 ***Modelo lógico:***
 
-![IMG-20240507-WA0110](https://github.com/CatatauProMax/SN-Nassau/assets/167378662/aeb0a3d2-1d03-4e38-8e21-d934c250660a)
+![IMG-20240507-WA0110](https://github.com/CatatauProMax/SN-Nassau/assets/167378662/3707edbb-f6b1-4e8f-bbd9-88c83bf0d881)
+
 
 
