@@ -30,13 +30,10 @@ nosso modelo logico apos a criação de tabelas, removidos erros de tabelas que 
 
 **a seleção do campeão e alteração em erros no codigo da tabela.**
 ![WhatsApp Image 2024-05-08 at 15 59 55](https://github.com/CatatauProMax/SN-Nassau/assets/167378662/24eef1ac-5c7e-41ab-a7db-0b3b634715ee)
-*
-*
-*
+
+
+
 *****RESULTADO*****
-*
-*
-*
 ![Capturar](https://github.com/CatatauProMax/SN-Nassau/assets/167378662/307e277c-5a3b-4dc1-8d6d-2bbec0da0c91)
 
 
