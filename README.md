@@ -18,9 +18,6 @@ Projeto de DB, Prof Felipe
 
 * Teamban;  
 
-***Dados para criar o modelo lógico:***
-
-![Dados para p modelo logico]()
 
 
 ***Modelo lógico:***
