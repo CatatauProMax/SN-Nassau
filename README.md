@@ -1,6 +1,8 @@
 # SN-Nassau
 Projeto de DB, Prof Felipe
 
+Canva:https://www.canva.com/design/DAGFO06yCBY/43GVCel3hiB3P0z8szfNJQ/edit
+
 É um projeto desenvolvido para selecionar um dataset no Kaggle, realizar a seleção de tabelas que iremos utilizar para criar uma base de banco de dados e um modelo lógico.
 ***
 ***O que é MongoDB?***
